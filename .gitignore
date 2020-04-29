@@ -1,0 +1,6 @@
+/project/
+/.idea/
+/target/
+/.scalafix.conf
+/assignment.sbt
+
